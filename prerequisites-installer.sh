@@ -3,6 +3,6 @@
 # MIT license
 echo "Welcome to the PugOS prerequisite installer."
 echo "Preparing to download the installer binary."
-# wget (github raw link here)
+wget https://github.com/cooldoglol/Pug-OS-Linux-1.0/raw/main/pugos-install
 echo "I must be granted rights to move the binary to /bin"
 sudo mv pugos-install /bin
