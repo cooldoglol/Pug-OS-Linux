@@ -1,0 +1,30 @@
+pug OS 16 contains:
+latte-dock
+(this installs kde but use GNOME instead!)
+vala-panel(lite build)
+hooli theme
+tela icon theme
+plank(only on lite builds)
+XFCE(only on lite builds)
+
+pug OS 15 contains:
+latte-dock
+sweet mars
+tela icon theme
+pug OS 12 contains:
+latte-dock
+edna theme
+tela icon theme
+kavantum theme(yes the blur theme thingy)
+pug OS 11 contains:
+lxpanel
+vala-panel
+latte-dock
+edna theme
+kwin as window manager
+pug OS 10 contains:
+latte-dock
+lxpanel
+nummix theme
+icon theme:mint y
+(NOTE: PUG OS 1.0 IS NOT AVALABLE AT THIS TIMW. IT WILL BE AVALABLE SOON AND ADDING TO IT, ITS BASED ON 18.04
